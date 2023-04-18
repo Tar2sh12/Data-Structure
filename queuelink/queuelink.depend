@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1681170217 source:c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\queuelink\qlink.c
+	"qlink.h"
+	<stdlib.h>
+
+1681161236 c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\queuelink\qlink.h
+
+1681170273 source:c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\queuelink\main.c
+	<stdio.h>
+	<stdlib.h>
+	"qlink.h"
+

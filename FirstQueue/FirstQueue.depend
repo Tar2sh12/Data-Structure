@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680751987 source:c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\firstqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1680750323 c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\firstqueue\queue.h
+
+1680787803 source:c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\firstqueue\queue.c
+	"queue.h"
+

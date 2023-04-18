@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1680994536 source:c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\stacklink\link.c
+	"link.h"
+	<stdlib.h>
+
+1680991886 c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\stacklink\link.h
+
+1681060975 source:c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\stacklink\main.c
+	<stdio.h>
+	<stdlib.h>
+	"link.h"
+
