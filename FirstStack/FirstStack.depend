@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680748577 source:c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\firststack\stackf.c
+	"stackf.h"
+
+1680730831 c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\firststack\stackf.h
+
+1680731089 source:c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\firststack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stackf.h"
+
