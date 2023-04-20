@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1681970601 source:c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\listlinked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1681961464 c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\listlinked\list.h
+
+1681961464 source:c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\listlinked\list.c
+	<stdlib.h>
+	"list.h"
+
