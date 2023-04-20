@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1681973595 source:c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\doublelist\dlist.c
+	"dlist.h"
+	<stdlib.h>
+
+1681973578 c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\doublelist\dlist.h
+
+1681973671 source:c:\users\moham\onedrive\documents\visual studio 2022\12344\jgjh\122432\doublelist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dlist.h"
+
