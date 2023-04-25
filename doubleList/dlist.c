@@ -80,7 +80,7 @@ void deleteList(int pos,ListEntry *pe,Dlist *pl){
         tmp->prev=NULL;
     }
     else{
-        if(pos=pl->sizee-1){
+        if(pos==pl->sizee-1){
             *pe=pl->endd->entry;
             q=pl->endd->prev;
             free(pl->endd);
@@ -88,16 +88,15 @@ void deleteList(int pos,ListEntry *pe,Dlist *pl){
             pl->endd=q;
         }
         else{
-            for(q=pl->head,i=0;i<pos-1;i++)
-            q=q->next;
+            for(q=pl->head,i=0;i<pos-1;i++){
+                q=q->next;
+            }
             *pe=q->next->entry;
             tmp=q->next->next;
             tmp->prev=q;
             free(q->next);
             q->next=tmp;
         }
-
-
     }
     pl->sizee--;
 }
